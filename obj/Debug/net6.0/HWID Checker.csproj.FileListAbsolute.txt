@@ -1,0 +1,28 @@
+C:\Users\Administrator\source\repos\HWID Checker\obj\Debug\net6.0\HWID Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\HWID Checker\obj\Debug\net6.0\HWID Checker.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\HWID Checker\obj\Debug\net6.0\HWID Checker.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\HWID Checker\obj\Debug\net6.0\HWID Checker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\HWID Checker.exe
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\HWID Checker.deps.json
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\HWID Checker.runtimeconfig.json
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\HWID Checker.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\ref\HWID Checker.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\HWID Checker.pdb
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\System.Management.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Administrator\source\repos\HWID Checker\obj\Debug\net6.0\HWID Checker.dll
+C:\Users\Administrator\source\repos\HWID Checker\obj\Debug\net6.0\ref\HWID Checker.dll
+C:\Users\Administrator\source\repos\HWID Checker\obj\Debug\net6.0\HWID Checker.pdb
+C:\Users\Administrator\source\repos\HWID Checker\obj\Debug\net6.0\HWID Checker.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\iTin.Core.Hardware.Common.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\iTin.Core.Hardware.Windows.Smbios.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\iTin.Core.Interop.Shared.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\iTin.Core.Interop.Windows.Smbios.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\iTin.Core.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\iTin.Hardware.Specification.Dmi.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\iTin.Hardware.Specification.Smbios.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\iTin.Hardware.Specification.Tpm.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\iTin.Logging.dll
+C:\Users\Administrator\source\repos\HWID Checker\bin\Debug\net6.0\NvAPIWrapper.dll
+C:\Users\Administrator\source\repos\HWID Checker\obj\Debug\net6.0\HWID Checker.csproj.CopyComplete
